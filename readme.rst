@@ -55,5 +55,10 @@ $config['base_url'] = 'caminho';
 
 ------------------------------------------------------------------------------------
 
+*******************
+Base de dados
+*******************
 
+- Script contendo a criação da base de dados e a tabela dentro da raiz do projeto.
 
+script_p21.sql

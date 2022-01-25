@@ -30,27 +30,30 @@ Configurações
 *******************
 
 - Alterar o caminho raiz do projeto
-*******************
+
 /application/config/config.php
-*******************
+
 $config['base_url'] = 'caminho';
 
+------------------------------------------------------------------------------------
 
 - Alterar o apontamento da base de dados
-*******************
+
 /application/config/database.php
-*******************
+
+------------------------------------------------------------------------------------
 
 - Alterar o caminho raiz no arquivo JavaScript - Linha 2
-*******************
+
 /assets/js/script.js
-*******************
+
+------------------------------------------------------------------------------------
 
 - Alterar a configuração do e-mail do server local - Método enviar()
-*******************
-/application/controllers/Principal.php
-*******************
 
+/application/controllers/Principal.php
+
+------------------------------------------------------------------------------------
 
 
 

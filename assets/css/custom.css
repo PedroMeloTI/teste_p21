@@ -1,0 +1,33 @@
+body, html {
+    width: 100%;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+#caixa_topo{
+    background-color: #7f7f7f;
+    padding: 2% 0 2% 0;
+    letter-spacing: 0.1em;
+}
+
+#caixa_topo h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+section#section_options button{
+    width: 100%;
+    padding: 5%;
+    font-size: 25px;
+}
+
+section#section_options button #btn_importar{
+    background-color: ;
+}
+
+.card-header{
+    background-color: #7781ef !important;
+    color: white !important;
+    font-weight: bolder;
+}

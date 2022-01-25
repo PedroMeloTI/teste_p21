@@ -1,5 +1,5 @@
 ###################
-Sistema desenvolvido para o processo de admissão da empresa P21
+Sistema desenvolvido para o processo de recrutamento da empresa P21
 ###################
 
 
